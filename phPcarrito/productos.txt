@@ -1,0 +1,14 @@
+computador1, 	800000, 	i7-1TB-16gb,	15, 	001 ,	comp001 ,com1-com2-com3&
+computador2, 	500000, 	i5-1TB-8gb,		12, 	001 ,	comp002 ,com1-com2-com3&
+computador3, 	600000, 	i5-480gbSSD-4gb, 31, 	001 ,	comp003 ,com1-com2-com3&
+computador4, 	200000, 	i3-512gb-8gb, 	6, 		001 ,	comp004	,com1-com2-com3&
+
+impresora1, 	30000,		hp, 			10, 	002 ,	imp001	,com1-com2-com3&
+impresora2, 	60000,		Canon, 			12, 	002 ,	imp002	,com1-com2-com3&
+impresora3, 	90000,		Epson, 			30, 	002 ,	imp003	,com1-com2-com3&
+impresora4, 	150000, 	hp, 			5, 		002 ,	imp004	,com1-com2-com3&
+
+monitor1,	 	30000,		LG 19", 		10, 	003 ,	mon001	,com1-com2-com3&
+monitor2, 		60000,		Samsung 17", 	12, 	003 ,	mon002	,com1-com2-com3&
+monitor3, 		90000,		AOC 32", 		30, 	003 ,	mon003	,com1-com2-com3&
+monitor4, 		150000, 	LG	21", 		5, 		003	,	mon004,com1-com2-com3&PC,180,i7-850,15,001,comp001,weno&PC,180,i7-850,15,001,comp001,weno&PC,180,i7-850,15,001,comp001,weno&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,&,,,,,,
